@@ -37,8 +37,11 @@
               </div>
         </div>
 
+        <h3 class='fw-bold mt-2' id='title'/>
         <div class='col-md-8 mb-1'>
 
+          
+          
 <b:section id='Main' showaddelement='false'/>
 
 <div class='ratio ratio-16x9' id='player'/>
@@ -91,6 +94,8 @@
       if (urlParams.has("match")) {
         const sTitle = urlParams.get("match");
         document.title = "S2Watch : " + sTitle;
+
+document.getElementById("title").innerText= decodeURI(sTitle)
         
       }
 

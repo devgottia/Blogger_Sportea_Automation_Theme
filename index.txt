@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:js='true' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale.language' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'><b:attr name='xmlns' value=''/><b:attr name='xmlns:b' value=''/><b:attr name='xmlns:expr' value=''/><b:attr name='xmlns:data' value=''/>
+<head>
+<title>S2Watch</title>
+  
+      <link href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css' rel='stylesheet'/>
+  
+<b:skin><![CDATA[]]></b:skin>
+</head>
+<body data-bs-theme='dark'>
+
+  
+      <nav class='navbar navbar-expand-lg bg-danger'>
+      <div class='container-fluid'>
+        <a class='navbar-brand fs-4 fw-bold' href='#'>S2Watch</a>
+      </div>
+    </nav>
+
+    <div class='container-fluid mt-5'>
+      <div class='row'>
+
+        <div class='col-12'>
+            <div class='d-flex justify-content-start mb-1'>
+<script type='text/javascript'>
+//<![CDATA[
+                  atOptions = {
+                    key: "6be20817fcc1bded2476833024ca6caa",
+                    format: "iframe",
+                    height: 90,
+                    width: 728,
+                    params: {},
+                  };
+          //]]>
+</script>
+                <script src='//biaseddocumentationacross.com/6be20817fcc1bded2476833024ca6caa/invoke.js' type='text/javascript'/>
+              </div>
+        </div>
+
+        <div class='col-md-8 mb-1'>
+
+<b:section id='Main' showaddelement='false'/>
+
+<div class='ratio ratio-16x9' id='player'/>
+
+        </div>
+        <div class='col-md-4'>
+
+<script type='text/javascript'>
+//<![CDATA[
+                atOptions = {
+                    'key' : 'c109ee3787fd054d7bf98eb03c5a39ed',
+                    'format' : 'iframe',
+                    'height' : 250,
+                    'width' : 300,
+                    'params' : {}
+                };
+          //]]>
+</script>
+<script src='//biaseddocumentationacross.com/c109ee3787fd054d7bf98eb03c5a39ed/invoke.js' type='text/javascript'/>
+
+          
+          <br/>
+            
+            
+<script type='text/javascript'>
+//<![CDATA[                
+					atOptions = {
+                    'key' : '20c141a8a84472f7e32ad3eb9d799afe',
+                    'format' : 'iframe',
+                    'height' : 300,
+                    'width' : 160,
+                    'params' : {}
+                };
+          //]]>
+</script>
+<script src='//biaseddocumentationacross.com/20c141a8a84472f7e32ad3eb9d799afe/invoke.js' type='text/javascript'/>
+          
+        </div>
+      </div>
+    </div>
+  
+          <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js'/>
+
+<script type='text/javascript'>
+//<![CDATA[
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const myParam = urlParams.get("ch");
+
+      if (urlParams.has("match")) {
+        const sTitle = urlParams.get("match");
+        document.title = "S2Watch : " + sTitle;
+        
+      }
+
+      let dPlayer = document.querySelector("#player");
+
+      dPlayer.innerHTML = '<iframe frameborder=0 width=1000 height=500 src="https://s1.sportea.link/live/embed.php?ch='+myParam+'" allowfullscreen scrolling=no allowtransparency></iframe>';
+//]]>
+</script>
+
+
+  
+  </body>
+</html>

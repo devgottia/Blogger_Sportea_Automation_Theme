@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+    <meta charset='UTF-8'/>
+    <meta content='noindex' name='robots'/>
+    <script src='//borrowhourglass.com/25/5e/df/255edf1eb6ebda835038ab09b88ae381.js' type='text/javascript'/>
+    <script src='//borrowhourglass.com/9b/ed/f8/9bedf8be0b9885071efecd50dcebe23f.js' type='text/javascript'/>
+    
+    <b:skin><![CDATA[
+    
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        background-color: #202124;
+      }
+
+      nav {
+        position: fixed;
+        background-color: #404040;
+        float: left;
+        width: 100%;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      nav a {
+        color: white;
+        font-family: sans-serif;
+        font-weight: bold;
+        text-decoration: none;
+      }
+
+      .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .main {
+        padding-top: 150px;
+        padding-bottom: 80px;
+        display: flex;
+        justify-content: center;
+      }
+
+      .item {
+        margin: 5px;
+      }
+
+      .leftSidebarAds {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+      }
+
+      .LeftAdsWrapper {
+        border-radius: 3px;
+        background-color: #404040;
+        padding: 10px;
+      }
+
+      .ad1 {
+        width: 300px;
+        height: 250px;
+      }
+
+      .ad2 {
+        margin-top: 10px;
+        width: 160px;
+        height: 300px;
+      }
+
+      .playerTopAd {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #404040;
+        padding: 10px;
+        border-radius: 3px;
+        width: 728px;
+        height: 90px;
+        margin-bottom: 10px;
+      }
+
+      .player {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #playerContainer {
+        border-radius: 3px;
+        background-color: #404040;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 10px;
+        padding-bottom: 30px;
+        width: 728px;
+      }
+
+      .playerBottomAd {
+        background-color: #404040;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-radius: 3px;
+        margin-top: 8px;
+        padding: 10px;
+        width: 468px;
+        height: 60px;
+      }
+
+      .rightAdsWrapper {
+        width: 160px;
+        height: 600px;
+        background-color: #404040;
+        border-radius: 3px;
+        padding: 10px;
+      }
+
+      #postTitle {
+        font-family: sans-serif;
+        font-size: 25px;
+        background-color: #404040;
+        border-radius: 3px;
+        width: 728px;
+        padding: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+
+      #credits {
+        padding-left: 145px;
+        color: white;
+        font-family: sans-serif;
+      }
+
+      @media only screen and (max-width: 768px) {
+        .container {
+          width: 768px;
+        }
+
+        .main {
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 768px;
+        }
+
+        .leftSidebarAds {
+          align-items: center;
+          flex-direction: column-reverse;
+        }
+
+        .ad2 {
+          margin-bottom: 20px;
+        }
+
+        #backlinks a {
+          font-size: 13px;
+        }
+
+        #credits {
+          padding-left: 0;
+        }
+      }
+
+]]></b:skin>  
+</head>
+
+  <body>
+    <nav>
+      <a href='#'>LiveSports</a>
+    </nav>
+
+    <div class='container'>
+      <div class='main'>
+        <div class='leftSidebar item'>
+          <div class='leftSidebarAds'>
+            <div class='LeftAdsWrapper ad1'>
+              <script type='text/javascript'>
+                atOptions = {
+                  key: &quot;bdb37304dad4ec917247023ffd98a05f&quot;,
+                  format: &quot;iframe&quot;,
+                  height: 250,
+                  width: 300,
+                  params: {},
+                };
+              </script>
+              <script src='//borrowhourglass.com/bdb37304dad4ec917247023ffd98a05f/invoke.js' type='text/javascript'/>
+            </div>
+
+            <div class='LeftAdsWrapper ad2'>
+              <script type='text/javascript'>
+                atOptions = {
+                  key: &quot;ee778ad1648278ee3236c3f2be5d0f02&quot;,
+                  format: &quot;iframe&quot;,
+                  height: 300,
+                  width: 160,
+                  params: {},
+                };
+              </script>
+              <script src='//borrowhourglass.com/ee778ad1648278ee3236c3f2be5d0f02/invoke.js' type='text/javascript'/>
+            </div>
+          </div>
+        </div>
+        <div class='player item'>
+          <div class='playerTopAd'>
+            <script type='text/javascript'>
+              atOptions = {
+                key: &quot;d7846b6735db62e1294b7165ea82d1e4&quot;,
+                format: &quot;iframe&quot;,
+                height: 90,
+                width: 728,
+                params: {},
+              };
+            </script>
+            <script src='//borrowhourglass.com/d7846b6735db62e1294b7165ea82d1e4/invoke.js' type='text/javascript'/>
+          </div>
+
+          <span id='postTitle' style='color: white'>
+            Stream Will Work 30Mins Before The Event
+          </span>
+
+          <div id='playerContainer'>
+            <b:section id='Main' showaddelement='false'/>
+
+            <div id='player' style='width: 640px; height: 480px'/>
+          </div>
+
+          <div class='playerBottomAd'>
+            <script type='text/javascript'>
+              atOptions = {
+                key: &quot;cef6e992e0b02cc2a3b4e86504c07121&quot;,
+                format: &quot;iframe&quot;,
+                height: 60,
+                width: 468,
+                params: {},
+              };
+            </script>
+            <script src='//borrowhourglass.com/cef6e992e0b02cc2a3b4e86504c07121/invoke.js' type='text/javascript'/>
+          </div>
+        </div>
+        <div class='rightSidebar item'>
+          <div class='rightSideBarAds'>
+            <div class='rightAdsWrapper'>
+              <script type='text/javascript'>
+                atOptions = {
+                  key: &quot;06c557a629c17c13f66779f5083b9489&quot;,
+                  format: &quot;iframe&quot;,
+                  height: 600,
+                  width: 160,
+                  params: {},
+                };
+              </script>
+              <script src='//borrowhourglass.com/06c557a629c17c13f66779f5083b9489/invoke.js' type='text/javascript'/>
+            </div>
+          </div>
+        </div>
+      </div>
+      <span id='credits'>MADE WITH &#10084;&#65039; BY GOTTIA</span> <br/>
+    </div>
+
+    <script type='text/javascript'>
+      //<![CDATA[
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const myParam = urlParams.get("ch");
+
+
+      let dPlayer = document.querySelector("#player");
+
+      dPlayer.innerHTML =
+        '<iframe frameborder=0 width=640 height=480 src="https://s1.sportea.link/live/embed.php?ch=' +
+        myParam +
+        '" allowfullscreen scrolling=no allowtransparency></iframe>';
+      //]]>
+    </script>
+  </body>
+</html>
